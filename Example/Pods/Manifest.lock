@@ -1,0 +1,16 @@
+PODS:
+  - joepublic (0.1.0)
+
+DEPENDENCIES:
+  - joepublic (from `../`)
+
+EXTERNAL SOURCES:
+  joepublic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  joepublic: 4f3e4049291e629ec845b7d8adddc4f116fb29eb
+
+PODFILE CHECKSUM: 80b6eb5f78e4f7eae124626550ff93d8db922394
+
+COCOAPODS: 1.8.4

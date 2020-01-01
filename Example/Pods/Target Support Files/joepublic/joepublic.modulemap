@@ -1,0 +1,6 @@
+framework module joepublic {
+  umbrella header "joepublic-umbrella.h"
+
+  export *
+  module * { export * }
+}
