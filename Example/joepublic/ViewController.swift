@@ -7,11 +7,14 @@
 //
 
 import UIKit
+import joepublic
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let lab = UILabel()
+        lab.font = UIFont.remachineScript(33)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
